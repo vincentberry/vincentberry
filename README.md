@@ -52,9 +52,20 @@ Retrouve MyLiveSport sur **[mylivesport.fr](https://mylivesport.fr)**.
 
 | Projet | Description |
 | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/vincentberry/openmultiview/main/assets/openmultiview-icon.png" width="28" alt=""> **[OpenMultiview](https://github.com/vincentberry/openmultiview)** | Créer des multivues personnalisables pour vMix, avec tally et indicateurs audio. [Découvrir le site](https://vincentberry.github.io/openmultiview/). |
+| <img src="https://raw.githubusercontent.com/vincentberry/grafbridge/main/web/logo.svg" width="28" alt=""> **[GrafBridge](https://github.com/vincentberry/grafbridge)** | Convertir des titres vMix GT en packages EBU OGraf, avec prévisualisation locale. |
 | 🎛️ **[vMix Remote](https://github.com/vincentberry/vMix-remote)** | Contrôler vMix à distance via une application web. |
 | 🎧 **[Discord Audio Stream Bot](https://github.com/vincentberry/Discord-Audio-Stream-Bot)** | Diffuser de l’audio local dans un salon vocal Discord. |
 | 🌐 **[DDNS Online / Scaleway](https://github.com/vincentberry/ddns-online-scaleway)** | Automatiser la mise à jour du DNS dynamique. |
+
+
+## 🎛️ Bitfocus Companion & vMix API
+
+| Projet | Description |
+| :--- | :--- |
+| 🎚️ **[Companion — Grass Valley K-Frame](https://github.com/vincentberry/companion-module-grassvalley-kframe)** | Mon fork du module Bitfocus Companion pour piloter les macros, les AUX et les suites Grass Valley K-Frame. |
+| 🎚️ **[Companion — MultiCAM Suite](https://github.com/vincentberry/companion-module-multicamsystems-multicamsuite)** | Module Bitfocus Companion pour MultiCAM Systems / MultiCAM Suite. |
+| 📖 **[vMix API](https://github.com/vincentberry/vmixapi)** | Mon fork de la référence non officielle de l’API vMix, créée à l’origine par [Nick Roberts](https://github.com/phuvf). |
 
 ---
 

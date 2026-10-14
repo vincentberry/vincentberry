@@ -59,13 +59,15 @@ Retrouve MyLiveSport sur **[mylivesport.fr](https://mylivesport.fr)**.
 | 🌐 **[DDNS Online / Scaleway](https://github.com/vincentberry/ddns-online-scaleway)** | Automatiser la mise à jour du DNS dynamique. |
 
 
-## 🎛️ Bitfocus Companion & vMix API
+## 🤝 Mes contributions open source
+
+Je participe au développement et à l’amélioration de projets de la communauté audiovisuelle, notamment autour de Bitfocus Companion et de vMix.
 
 | Projet | Description |
 | :--- | :--- |
-| 🎚️ **[Companion — Grass Valley K-Frame](https://github.com/vincentberry/companion-module-grassvalley-kframe)** | Mon fork du module Bitfocus Companion pour piloter les macros, les AUX et les suites Grass Valley K-Frame. |
-| 🎚️ **[Companion — MultiCAM Suite](https://github.com/vincentberry/companion-module-multicamsystems-multicamsuite)** | Module Bitfocus Companion pour MultiCAM Systems / MultiCAM Suite. |
-| 📖 **[vMix API](https://github.com/vincentberry/vmixapi)** | Mon fork de la référence non officielle de l’API vMix, créée à l’origine par [Nick Roberts](https://github.com/phuvf). |
+| 🎚️ **[Bitfocus Companion — Grass Valley K-Frame](https://github.com/bitfocus/companion-module-grassvalley-kframe)** | Contribution au développement du module de contrôle des macros, des AUX et des suites Grass Valley K-Frame. |
+| 🎚️ **[Bitfocus Companion — MultiCAM Suite](https://github.com/bitfocus/companion-module-multicamsystems-multicamsuite)** | Contribution au développement du module pour MultiCAM Systems / MultiCAM Suite. |
+| 📖 **[vMix API](https://github.com/phuvf/vmixapi)** | Contribution à l’amélioration de la référence non officielle de l’API vMix, créée à l’origine par [Nick Roberts](https://github.com/phuvf). |
 
 ---
 

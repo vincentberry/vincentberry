@@ -52,7 +52,7 @@ Retrouve MyLiveSport sur **[mylivesport.fr](https://mylivesport.fr)**.
 
 | Projet | Description |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/vincentberry/openmultiview/main/assets/openmultiview-icon.png" width="28" alt=""> **[OpenMultiview](https://github.com/vincentberry/openmultiview)** | Créer des multivues personnalisables pour vMix, avec tally et indicateurs audio. [Découvrir le site](https://vincentberry.github.io/openmultiview/). |
+| <img src="https://vincentberry.github.io/openmultiview/assets/openmultiview-icon.png" width="28" alt=""> **[OpenMultiview](https://github.com/vincentberry/openmultiview)** | Créer des multivues personnalisables pour vMix, avec tally et indicateurs audio. [Découvrir le site](https://vincentberry.github.io/openmultiview/). |
 | <img src="https://raw.githubusercontent.com/vincentberry/grafbridge/main/web/logo.svg" width="28" alt=""> **[GrafBridge](https://github.com/vincentberry/grafbridge)** | Convertir des titres vMix GT en packages EBU OGraf, avec prévisualisation locale. |
 | 🎛️ **[vMix Remote](https://github.com/vincentberry/vMix-remote)** | Contrôler vMix à distance via une application web. |
 | 🎧 **[Discord Audio Stream Bot](https://github.com/vincentberry/Discord-Audio-Stream-Bot)** | Diffuser de l’audio local dans un salon vocal Discord. |
